@@ -16,7 +16,7 @@ public class Application {
 		try {
 			OrderUtil.writeOrder(args[0]);
 
-			System.out.println("Done.");
+			System.out.println("The orders were writen successfully.");
 		} catch (IOException e) {
 			System.err.println(e.getMessage());
 		}
