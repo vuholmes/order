@@ -7,3 +7,7 @@ Mac: gradle clean build
 java -jar ./build/libs/order-1.0.0.jar <input-folder>
 
 Example: java -jar ./build/libs/order-1.0.0.jar /Users/vutg/Documents/personal/order/test_files
+
+# 3. What to improve
+Build the rest api to support other services to easily call to this service
+Improve the command line: input, output
