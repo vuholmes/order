@@ -1,3 +1,6 @@
 /build/*
 /.gradle/*
 /.idea/*
+/test_files/DELL_order.csv
+/test_files/HP_order.csv
+/test_files/IBM_order.csv
